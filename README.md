@@ -1,4 +1,4 @@
 artifactor
 ==========
 
-hackday project, not espcially usable yet
+hackday project, not especially usable yet
