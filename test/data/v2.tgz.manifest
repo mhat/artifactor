@@ -1,0 +1,12 @@
+{
+	"ThisVersion"     : "20131015-v2.0",
+	"ThisVersionHash" : "265b5ef86e71281b1ef3ec6f566de6eb06e87106",
+	"Patches"         : [
+		{
+			"PatchIndex"      : 0,
+			"PatchHash"       : "5e590fdb76cf12de96fcea900e92963865675f22",
+			"FromVersion"     : "20131015-v1.0",
+			"FromVersionHash" : "ab0142c310e20e5ca1f45e469d295ff464db0437"
+		}
+	]
+}
